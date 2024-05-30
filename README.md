@@ -1,3 +1,3 @@
 # K40 Laser LED Positional Guide
 
-![FullAssembly3](https://github.com/nathanhborger/K40_Laser_LED_Positional_Guide/assets/75147239/500ece12-0d14-4dc7-a5a6-6b3658ab6c29)
+![K40_LED_Positional_Guide_GitHeader](https://github.com/nathanhborger/K40_Laser_LED_Positional_Guide/assets/75147239/7a9fe737-a361-4b9d-b5cf-527c16e16f90)
